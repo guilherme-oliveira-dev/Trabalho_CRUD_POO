@@ -1,4 +1,4 @@
-
+Trabalho final de POO, CRUD de tela de cadastro clinica veterinaria feita em c# com acesso a banco de dados MYSQL.
 
 ## 💾 Script de criação do banco de dados
 
