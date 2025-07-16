@@ -14,7 +14,7 @@ internal static class Conexao
     {
         try
         {
-            string strconexao = "server=localhost;uid=root;pwd=sayara;port=3306; database=clinicavet";
+            string strconexao = "server=localhost;uid=root;pwd=guilherme;port=3306; database=clinicavet";
             conexao = new MySqlConnection(strconexao);
             conexao.Open();
             //Console.WriteLine("Conectado!");
